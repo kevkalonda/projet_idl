@@ -1,0 +1,15 @@
+****************Créer des pages**************
+
+
+***********On ne peut créer que 20 groupes***********
+
+       * [[Pages1]]
+       * [[Pages2]]
+       * [[Pages3]]
+       * [[Pages4]]
+       * [[Pages5]]
+       * [[Pages6]]
+       * [[Pages7]]
+       * [[Pages8]]
+       * [[Pages9]]
+       * [[Pages10]]
